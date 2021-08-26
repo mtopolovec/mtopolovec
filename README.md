@@ -62,9 +62,10 @@
 
 ---
 
-From [mtopolovec](https://github.com/mtopolovec)
-### Thank You 🙏🏼
-
+<div align="center">
+  From [mtopolovec](https://github.com/mtopolovec)
+  <h3>Thank You 🙏🏼</h3>
+</div>
 
 <!--
 **mtopolovec/mtopolovec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
