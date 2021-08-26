@@ -51,7 +51,7 @@
 
 <div align="center">
 📫 How to reach me:
-</div><br>
+</div>
 
 ---
 
@@ -65,7 +65,9 @@
 
 From [mtopolovec](https://github.com/mtopolovec)
 
-#### Thank You 🙏🏼
+<div align="center">
+  <h2>Thank You 🙏🏼</h2>
+</div>
 
 <!--
 **mtopolovec/mtopolovec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
