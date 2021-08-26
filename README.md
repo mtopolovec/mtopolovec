@@ -63,7 +63,7 @@
 ---
 
 <div align="center">
-  From [mtopolovec](https://github.com/mtopolovec)
+  From <a href = "https://github.com/mtopolovec">mtopolovec</a>
   <h3>Thank You 🙏🏼</h3>
 </div>
 
