@@ -5,9 +5,7 @@
 
 ## About me
 
----
-
-<img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Matija Topolovec from Croatia 🇳🇵.
+- I am Matija Topolovec from Croatia 🇳🇵.
 - 🔭 I’m currently pursuing my Bachelor degree of Engineering in Computing at Zagreb University of Applied Sciences.
 - 🌱 I’m currently learning Full-Stack Development and Spring boot.
 
@@ -31,8 +29,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Intellij](https://img.shields.io/badge/-Intellijidea-333333?style=flat&logo=intellijidea)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
