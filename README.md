@@ -1,7 +1,7 @@
 ***********************************
 ### Hi there 👋
 
-##<b>About me</b> 
+##About me
 
 <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Matija Topolovec from Croatia 🇳🇵.
 - 🔭 I’m currently pursuing my Bachelor degree of Engineering in Computing at Zagreb University of Applied Sciences.
