@@ -36,14 +36,13 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-<br/>
-
+---
 
 **I am Into ,**
 
 **Web & Spring boot**
-<br />
 
+---
 
 ![Matija Topolovec Github Stats](https://github-readme-stats.vercel.app/api?username=mtopolovec&show_icons=true&title_color=fff&icon_color=58a6ff&text_color=9f9f9f&bg_color=151515)
 
@@ -64,10 +63,8 @@
 ---
 
 From [mtopolovec](https://github.com/mtopolovec)
+**Thank You 🙏🏼**
 
-<div align="center">
-  <h2>Thank You 🙏🏼</h2>
-</div>
 
 <!--
 **mtopolovec/mtopolovec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
