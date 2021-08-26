@@ -1,6 +1,7 @@
 ***********************************
+<div align="center">
 ### Hi there 👋
-
+</div>
 ---
 
 ## :bowtie: About me
