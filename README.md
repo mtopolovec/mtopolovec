@@ -44,7 +44,7 @@
 
 <h3> :sparkles: &nbsp;Github stats</h3>
 
-![Matija Topolovec Github Stats](https://github-readme-stats.vercel.app/api?username=mtopolovec&show_icons=true&title_color=fff&icon_color=58a6ff&text_color=58a6ff&bg_color=151515)
+![Matija Topolovec Github Stats](https://github-readme-stats.vercel.app/api?username=mtopolovec&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=9f9f9f&bg_color=151515)
 
 <br /> 
 
