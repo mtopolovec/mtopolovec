@@ -3,7 +3,7 @@
 
 ---
 
-## About me
+## :bowtie: About me
 
 - I am Matija Topolovec from Croatia 🇳🇵.
 - 🔭 I’m currently pursuing my Bachelor degree of Engineering in Computing at Zagreb University of Applied Sciences.
