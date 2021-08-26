@@ -7,10 +7,10 @@
 
 <h3> :bowtie: &nbsp;About me</h3>
 
-- I am :man: Matija Topolovec from Croatia 🇭🇷.
-- :briefcase: I'm currently working as Software Engineer for Dept.
-- :mortar_board: I’m currently pursuing my Bachelor degree of Engineering in Computing at Zagreb University of Applied Sciences.
-- :book: I’m currently learning Full-Stack Development and improving skills in Spring boot.
+- :man: My name is Matija Topolovec and i come from beautiful country of Croatia 🇭🇷.
+- :briefcase: Working as Software Engineer for Dept.
+- :mortar_board: Pursuing my Bachelor degree of Engineering in Computing at Zagreb University of Applied Sciences.
+- :book: Learning Full-Stack Development and improving skills in Spring boot.
 
 ---
 
