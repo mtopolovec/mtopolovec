@@ -9,7 +9,7 @@
 
 - :man: My name is Matija Topolovec and I am coming from the beautiful country of Croatia 🇭🇷.
 - :briefcase: Working as Software Engineer for Dept.
-- :mortar_board: Pursuing my Bachelor degree of Engineering in Computing at Zagreb University of Applied Sciences.
+- :mortar_board: Pursuing my Masters degree of Information Technology at Zagreb University of Applied Sciences.
 - :book: Learning Full-Stack Development and improving skills in Spring boot.
 
 ---
