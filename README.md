@@ -54,25 +54,22 @@
 
 ---
 
-<div>
+<div align="center">
     <a href = "https://www.facebook.com/topolovec.matija">
-       <div>
-         <img src = "https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" height= 25px width = 25px style="vertical-align:middle"
-             align="center">
-        <span align="center"> Facebook </span> 
+      <img src = "https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" height= 25px width = 25px style="vertical-align:middle">
+        <span> Facebook </span> 
         </div>
     </a>&nbsp;&nbsp;
     <a href = "https://www.instagram.com/matija_topolovec">
       <div> 
-      <img src = "https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" height= 25px width = 25px style="vertical-align:middle"
-             align="center">
-        <span align="center"> Instagram </span> 
+      <img src = "https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" height= 25px width = 25px>
+        <span> Instagram </span> 
        </div>
     </a>&nbsp;&nbsp;
     <a href = "https://www.linkedin.com/in/matija-topolovec">
       <div>  
-        <img src = "https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" height= 25px width = 25px style="vertical-align:middle">
-        <span align="center"> Linked In </span> 
+        <img src = "https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" height= 25px width = 25px>
+        <span> Linked In </span> 
       <div> 
     </a>
 </div>
