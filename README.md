@@ -54,7 +54,7 @@
 
 ---
 
-<div align="center">
+<div style="display: flex;">
   <a href = "https://www.facebook.com/topolovec.matija">
     <img src = "https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" height="40px" width ="40px" />
   </a>
