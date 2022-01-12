@@ -57,7 +57,7 @@
 <div align="center">
     <a href = "https://www.facebook.com/topolovec.matija"> 
       <div>
-        <img src = "https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" height= 20px width = 20px align="center-left"> Facebook 
+        <img src = "https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" height= 20px width = 20px align="center-center"> Facebook 
       </div>
     </a>&nbsp;&nbsp;
     <a href = "https://www.instagram.com/matija_topolovec">
