@@ -55,20 +55,14 @@
 ---
 
 <div align="center">
-    <a href = "https://www.facebook.com/topolovec.matija"> 
-      <div>
-        <img src = "https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" height= 20px width = 20px align="center-center"> Facebook 
-      </div>
+    <a href = "https://www.facebook.com/topolovec.matija">
+        <img src = "https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" height= 20px width = 20px> Facebook 
     </a>&nbsp;&nbsp;
     <a href = "https://www.instagram.com/matija_topolovec">
-      <div>
-        <img src = "https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" height= 20px width = 20px align="center"> Instagram 
-      </div>
+        <img src = "https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" height= 20px width = 20px> Instagram 
     </a>&nbsp;&nbsp;
     <a href = "https://www.linkedin.com/in/matija-topolovec">
-      <div>
-        <img src = "https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" height= 20px width = 20px align="center"> Linked In 
-      </div>
+        <img src = "https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" height= 20px width = 20px> Linked In 
     </a>
 </div>
 
