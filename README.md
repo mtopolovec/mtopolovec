@@ -59,10 +59,10 @@
     <img src = "https://cdn.worldvectorlogo.com/logos/facebook-4.svg" height="40px" width ="40px" />
   </a>
   <a href = "https://www.instagram.com/matija_topolovec">
-    <img src = "https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" height="40px" width ="40px" />
+    <img src = "https://cdn.worldvectorlogo.com/logos/instagram-5.svg" height="40px" width ="40px" />
   </a>
   <a href = "https://www.linkedin.com/in/matija-topolovec">
-    <img src = "https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" height="40px" width ="40px" />
+    <img src = "https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="40px" width ="40px" />
   </a>
 </div>
 
