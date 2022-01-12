@@ -56,8 +56,8 @@
 
 <div align="center">
     <a href = "https://www.facebook.com/topolovec.matija"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
-    <a href = "https://www.instagram.com/matija_topolovec"><img src = "https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
-    <a href = "https://www.linkedin.com/in/matija-topolovec"><img src = "https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" height= 15px width = 15px> Linkedin </a>
+    <a href = "https://www.instagram.com/matija_topolovec"><img src = "https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" height= 25px width = 25px> Instagram </a>&nbsp;&nbsp;
+    <a href = "https://www.linkedin.com/in/matija-topolovec"><img src = "https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" height= 25px width = 25px> Linkedin </a>
 </div>
 
 ---
