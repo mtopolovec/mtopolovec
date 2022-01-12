@@ -55,13 +55,13 @@
 ---
 
 <div align="center">
-  <a href = "https://www.facebook.com/topolovec.matija" height="40px" width ="40px">
+  <a href = "https://www.facebook.com/topolovec.matija" height="40px">
     <img src = "https://cdn.worldvectorlogo.com/logos/facebook-4.svg" height="40px" width ="40px" />
   </a>
-  <a href = "https://www.instagram.com/matija_topolovec" height="40px" width ="40px">
+  <a href = "https://www.instagram.com/matija_topolovec" height="40px">
     <img src = "https://cdn.worldvectorlogo.com/logos/instagram-5.svg" height="40px" width ="40px" />
   </a>
-  <a href = "https://www.linkedin.com/in/matija-topolovec" height="40px" width ="40px">
+  <a href = "https://www.linkedin.com/in/matija-topolovec" height="40px">
     <img src = "https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="40px" width ="40px" />
   </a>
 </div>
