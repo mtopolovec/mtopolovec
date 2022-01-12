@@ -54,7 +54,7 @@
 
 ---
 
-<div align="center">
+<div align="center" height="40px">
   <a href = "https://www.facebook.com/topolovec.matija" height="40px">
     <img src = "https://cdn.worldvectorlogo.com/logos/facebook-4.svg" height="40px" width ="40px" />
   </a>
