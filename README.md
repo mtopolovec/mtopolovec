@@ -64,7 +64,6 @@
   <a href = "https://www.linkedin.com/in/matija-topolovec">
     <img src = "https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" height="40px" width ="40px" />
   </a>
-  [![Facebook](https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg)](https://www.facebook.com/topolovec.matija)
 </div>
 
 ---
