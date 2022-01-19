@@ -56,7 +56,7 @@
 
 <div align="center">
   <a href = "https://www.facebook.com/topolovec.matija" style="text-decoration: none;">
-    <img src = "https://www.svgrepo.com/show/152245/facebook.svg" height="40px" width="40px" />
+    <img src = "https://www.svgrepo.com/show/157810/facebook.svg" height="40px" width="40px" />
   </a>
   <a href = "https://www.instagram.com/matija_topolovec" style="text-decoration: none;">
     <img src = "https://cdn.worldvectorlogo.com/logos/instagram-5.svg" height="40px" width="40px" />
