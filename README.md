@@ -42,6 +42,11 @@
 
 ---
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+</div>
+
 <h3> :sparkles: &nbsp;Github stats</h3>
 
 ![Matija Topolovec Github Stats](https://github-readme-stats.vercel.app/api?username=mtopolovec&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=9f9f9f&bg_color=151515)
