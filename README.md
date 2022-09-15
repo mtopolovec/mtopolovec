@@ -19,6 +19,7 @@
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Spring boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
 - 🌐 &nbsp;
   ![AngularJS](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=angularjs)
   ![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
