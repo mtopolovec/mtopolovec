@@ -72,7 +72,7 @@
 
 <div align="center">
   <a href = "https://www.facebook.com/topolovec.matija" style="text-decoration: none;">
-    <img src = "https://www.vectorico.com/download/social_media/Facebook-Logo-Square.svg" height="40px" width="40px" />
+    <img src = "https://cdn.worldvectorlogo.com/logos/facebook-4.svg" height="40px" width="40px" />
   </a>
   <a href = "https://www.instagram.com/matija_topolovec" style="text-decoration: none;">
     <img src = "https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" height="40px" width="40px" />
