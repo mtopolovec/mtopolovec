@@ -73,12 +73,6 @@
 ---
 
 <div align="center">
-  <a href = "https://www.facebook.com/topolovec.matija">
-    <img src = "https://img.shields.io/badge/Facebook-blue?logo=facebook&style=for-the-badge" alt="Facebook Badge"/>
-  </a>
-  <a href = "https://www.instagram.com/matija_topolovec">
-    <img src = "https://img.shields.io/badge/-Instagram-white?logo=instagram&style=for-the-badge" alt="Instagram Badge"/>
-  </a>
   <a href = "https://www.linkedin.com/in/matija-topolovec">
     <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
