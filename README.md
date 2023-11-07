@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi there 👋</h3>
-  <br>
+  <br />
 </div>
 
 ---
@@ -10,7 +10,7 @@
 - :man: My name is Matija Topolovec and I am coming from the beautiful country of Croatia 🇭🇷
 - :briefcase: Working as Software Engineer for Dept.
 - :mortar_board: Got my Masters degree of Information Technology at Zagreb University of Applied Sciences.
-- :book: Learning Full-Stack Development and improving my skills with every new ticket and tasks.
+- :book: Learning Full-Stack Development and improving my skills with every new ticket and task.
 
 ---
 
@@ -26,6 +26,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -48,7 +49,8 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -62,7 +64,7 @@
 
 ![Matija Topolovec Github Stats](https://github-readme-stats.vercel.app/api?username=mtopolovec&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=9f9f9f&bg_color=151515)
 
-<br /> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtopolovec&layout=compact&theme=vision-friendly-dark)
 
 <div align="center">
 📫 How to reach me:
@@ -71,21 +73,27 @@
 ---
 
 <div align="center">
-  <a href = "https://www.facebook.com/topolovec.matija" style="text-decoration: none;">
-    <img src = "https://cdn.worldvectorlogo.com/logos/facebook-4.svg" height="40px" width="40px" />
+  <a href = "https://www.facebook.com/topolovec.matija">
+    <img src = "https://img.shields.io/badge/Facebook-blue?logo=facebook&style=for-the-badge" alt="Facebook Badge"/>
   </a>
-  <a href = "https://www.instagram.com/matija_topolovec" style="text-decoration: none;">
-    <img src = "https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" height="40px" width="40px" />
+  <a href = "https://www.instagram.com/matija_topolovec">
+    <img src = "https://img.shields.io/badge/-Instagram-white?logo=instagram&style=for-the-badge" alt="Instagram Badge"/>
   </a>
-  <a href = "https://www.linkedin.com/in/matija-topolovec" style="text-decoration: none;">
-    <img src = "https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="40px" width="40px" />
+  <a href = "https://www.linkedin.com/in/matija-topolovec">
+    <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
+</div>
+<br />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mtopolovec&style=flat-square&color=blue" alt="profile view counter"/>
 </div>
 
 ---
 
 <div align="center">
-  From <a href = "https://github.com/mtopolovec">mtopolovec</a>
+  From <a href = "https://github.com/mtopolovec">
+    mtopolovec
+  </a>
   <h3>Thank You 🙏🏼</h3>
 </div>
 
